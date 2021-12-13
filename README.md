@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Repository Description
+# OOP School Library
 
 > On this repository I'll create an school library, using OOP.
 
