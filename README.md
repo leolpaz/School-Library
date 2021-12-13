@@ -1,59 +1,36 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Repository Description
 
-> One paragraph statement about the project.
+> On this repository I'll create an school library, using OOP.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+On this milestone I added the classes person, student and teacher, as well as implemented some methods for them
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-### Setup
+- A code editor of your preference.
+- Ruby
 
 ### Install
 
-### Usage
+- Clone the repository from gitHub
+```
+git clone <REPO-NAME>
+```
 
-### Run tests
+## Author
 
-### Deployment
+👤 **Leonardo Paz** (Performance audit)
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [Leonardo Paz](https://github.com/leolpaz)
+- Twitter: [Leonardo Paz](https://twitter.com/leonardolpaz95)
+- Linkedin: [Leonardo Paz](https://www.linkedin.com/in/leonardolpaz/)
 
 ## 🤝 Contributing
 
@@ -64,12 +41,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
