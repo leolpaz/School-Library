@@ -4,7 +4,7 @@
 
 > On this repository I'll create an school library, using OOP.
 
-On this milestone I added the classes person, student and teacher, as well as implemented some methods for them
+On this milestone I create the corrector class, which is used on the Person class to capitalize and and limit character of a name
 
 ## Built With
 
