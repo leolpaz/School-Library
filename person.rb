@@ -1,5 +1,6 @@
 require_relative 'corrector'
-
+# Create the has-many side of Person and Rental (a person has many rentals).
+# Create the belongs-to side of Rental and Person (a rental belongs to a person).
 class Person
   attr_accessor :age, :name
   attr_reader :id
@@ -10,6 +11,7 @@ class Person
     @name = name
     @parent_permission = parent_permission
     @corrector = Corrector.new
+    @rentals = []
   end
 
   def can_use_services?
@@ -20,6 +22,10 @@ class Person
 
   def validade_name
     @name = @corrector.correct_name(@name)
+  end
+
+  def create_rental(_person, date)
+    Rental.new(date, book, self)
   end
 
   private
