@@ -1,6 +1,6 @@
 require_relative 'corrector'
-# Create the has-many side of Person and Rental (a person has many rentals).
-# Create the belongs-to side of Rental and Person (a rental belongs to a person).
+require_relative 'rental'
+
 class Person
   attr_accessor :age, :name
   attr_reader :id

@@ -1,3 +1,5 @@
+require_relative 'rental'
+
 class Book
   attr_accessor :title, :author
 
@@ -11,5 +13,3 @@ class Book
     Rental.new(date, self, person)
   end
 end
-
-# Create the has-many side of Book and Rental (a book has many rentals).
