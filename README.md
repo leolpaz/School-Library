@@ -28,7 +28,7 @@ git clone <REPO-NAME>
 
 ## Author
 
-👤 **Leonardo Paz** (Performance audit)
+👤 **Leonardo Paz**
 
 - Github: [Leonardo Paz](https://github.com/leolpaz)
 - Twitter: [Leonardo Paz](https://twitter.com/leonardolpaz95)
