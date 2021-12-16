@@ -4,7 +4,9 @@
 
 > On this repository I'll create an school library, using OOP.
 
-On this milestone I create the classroom, book and rental classes. And I also implement association relationships between them.
+![screenshot](./screenshot.png)
+
+On this milestone I create the basic UI using the App class and the main method to enable user interaction
 
 ## Built With
 
